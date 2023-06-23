@@ -168,14 +168,6 @@ a{
 
 /* End */
 /* Main Css */
-.nav-inner {
-    width: 100%;
-    max-width: 1180px;
-    margin: 0 auto;
-    padding: 0 20px;
-    height: 100%;
-    position: relative;
-}
 .nav-item:hover{
     color: var(--text-primary);
 }
@@ -311,7 +303,6 @@ span.swiper-pagination-bullet {
 	height: auto;
 	opacity: 0;
 }
-
 .modal-content {
 	max-width: 1920px;
 	width: auto;
@@ -322,7 +313,6 @@ span.swiper-pagination-bullet {
     height: 3px;
     color: var(--text-scondary);
 }
-
 .slider-section .slide-img .cal-card{
     top: 2%;
     left: 3%;
