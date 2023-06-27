@@ -157,11 +157,13 @@ a{
 .btn-port{
     background-color: var(--bgg-primary);
     color: var(--text-scondary);
+    border-bottom: 4px solid #4b3025;
 }
 .btn-tab-active:hover, .btn-port:hover{
     color: var(--text-primary);
     background-color: var(--bgg-secondary);
     border: 1px solid var(--text-primary); 
+    border-bottom: 4px solid #4b3025;
 }
 /* font Size */
 .font-14{
