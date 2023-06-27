@@ -401,6 +401,9 @@ footer .footer-content.active p ,footer .footer-content:hover p, footer a:hover 
     }
 }
 @media screen and (max-width:1191px){
+    .swiper-pagination{
+        bottom: 32%!important;
+    }
     .banner-section .swiper-button-next{right: 1%;}
     .banner-section .swiper-button-prev{left: 1%;}
     .pt-380 {
