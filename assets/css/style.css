@@ -273,6 +273,10 @@ a{
     z-index: 991;
 }
 /* tabbing-section */
+.tabbing-section .btn-tab-active:hover{
+    border-bottom: none;
+    border: 1px solid var(--bgg-brown-500);
+} 
 .tabbing-section .card-content::after{
     position: absolute;
     content: "";
